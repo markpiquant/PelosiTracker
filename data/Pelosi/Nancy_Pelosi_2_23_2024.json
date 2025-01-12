@@ -1,0 +1,20 @@
+{
+    "Transaction 1": {
+        "Company": "Palo Alto Networks, Inc. (PANW)",
+        "Ticker": "PANW",
+        "Action": "P",
+        "Date": "02/12/2024",
+        "Amount": "$500,001 - $1,000,000",
+        "Description": "Purchased 50 call options with a strike price of $200 and an expiration date of 1/17/25."
+    },
+    "Transaction 2": {
+        "Company": "Palo Alto Networks, Inc. (PANW)",
+        "Ticker": "PANW",
+        "Action": "P",
+        "Date": "02/21/2024",
+        "Amount": "$100,001 - $250,000",
+        "Description": "Purchased 20 call options with a strike price of $200 and an expiration date of 1/17/25."
+    },
+    "Amount purchased": "600002 - 1250000",
+    "Amount sold": "0 - 0"
+}

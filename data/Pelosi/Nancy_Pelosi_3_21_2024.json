@@ -1,0 +1,12 @@
+{
+    "Transaction 1": {
+        "Company": "Forge Investments, LLC [AB]",
+        "Ticker": "FRGE",
+        "Action": "P",
+        "Date": "03/04/2024",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Description": "Investment in fund that owns Databricks stock. Databricks is a San Francisco engineering and analytic"
+    },
+    "Amount purchased": "1000001 - 5000000",
+    "Amount sold": "0 - 0"
+}

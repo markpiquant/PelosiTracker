@@ -1,0 +1,20 @@
+{
+    "Transaction 1": {
+        "Company": "Microsoft Corporation - Common",
+        "Ticker": "MSFT",
+        "Action": "S (partial)",
+        "Date": "07/26/2024",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Description": "Sold 5,000 shares."
+    },
+    "Transaction 2": {
+        "Company": "NVIDIA Corporation - Common Stock",
+        "Ticker": "NVDA",
+        "Action": "P",
+        "Date": "07/26/2024",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Description": "Purchased 10,000 shares."
+    },
+    "Amount purchased": "1000001 - 5000000",
+    "Amount sold": "1000001 - 5000000"
+}

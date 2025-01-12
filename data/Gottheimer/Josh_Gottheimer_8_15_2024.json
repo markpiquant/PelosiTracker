@@ -1,0 +1,396 @@
+{
+    "Transaction 1": {
+        "Company": "3M Company Common Stock (MMM)",
+        "Action": "P",
+        "Date": "07/26/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 2": {
+        "Company": "Abbott Laboratories Common Stock",
+        "Action": "P",
+        "Date": "07/29/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 3": {
+        "Company": "Advanced Micro Devices, Inc. (AMD)",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 4": {
+        "Company": "Advanced Micro Devices, Inc. (AMD)",
+        "Action": "S (partial)",
+        "Date": "07/31/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 5": {
+        "Company": "Airbnb, Inc. - Class A Common Stock",
+        "Action": "S",
+        "Date": "07/09/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 6": {
+        "Company": "ALLIANZ SE UNSP/ADR (ALIZY)",
+        "Action": "S (partial)",
+        "Date": "07/09/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 7": {
+        "Company": "Alphabet Inc. - Class C Capital Stock",
+        "Action": "P",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 8": {
+        "Company": "Ambev S.A. American Depositary",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 9": {
+        "Company": "Ambev S.A. American Depositary",
+        "Action": "P",
+        "Date": "07/31/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 10": {
+        "Company": "Amphenol Corporation Common",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 11": {
+        "Company": "Arista Networks, Inc. Common Stock",
+        "Action": "S (partial)",
+        "Date": "07/29/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 12": {
+        "Company": "AtriCure, Inc. - Common Stock",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 13": {
+        "Company": "AutoZone, Inc. Common Stock (AZO)",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 14": {
+        "Company": "Block, Inc. Class A Common Stock,",
+        "Action": "S",
+        "Date": "07/24/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 15": {
+        "Company": "Block, Inc. Class A Common Stock,",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 16": {
+        "Company": "D.R. Horton, Inc. Common Stock",
+        "Action": "P",
+        "Date": "07/31/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 17": {
+        "Company": "D.R. Horton, Inc. Common Stock",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 18": {
+        "Company": "DBS GROUP HLDGS LTD S/ADR",
+        "Action": "S (partial)",
+        "Date": "07/08/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 19": {
+        "Company": "Eli Lilly and Company Common Stock",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 20": {
+        "Company": "Flywire Corporation - Voting Common",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 21": {
+        "Company": "Freeport-McMoRan, Inc. Common",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 22": {
+        "Company": "Genmab A/S - American Depositary",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 23": {
+        "Company": "Heartland Express, Inc. - Common",
+        "Action": "S",
+        "Date": "07/26/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 24": {
+        "Company": "Helen of Troy Limited - Common",
+        "Action": "S",
+        "Date": "07/12/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 25": {
+        "Company": "HubSpot, Inc. Common Stock (HUBS)",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 26": {
+        "Company": "Intuit Inc. - Common Stock (INTU)",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 27": {
+        "Company": "Intuitive Surgical, Inc. - Common",
+        "Action": "P",
+        "Date": "07/22/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 28": {
+        "Company": "La-Z-Boy Incorporated Common",
+        "Action": "P",
+        "Date": "07/16/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 29": {
+        "Company": "Marriott International - Class A",
+        "Action": "S (partial)",
+        "Date": "07/09/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 30": {
+        "Company": "Mastercard Incorporated Common",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 31": {
+        "Company": "Mastercard Incorporated Common",
+        "Action": "P",
+        "Date": "07/18/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 32": {
+        "Company": "Mastercard Incorporated Common",
+        "Action": "P",
+        "Date": "07/31/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 33": {
+        "Company": "McDonald's Corporation Common",
+        "Action": "P",
+        "Date": "07/09/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 34": {
+        "Company": "McKesson Corporation Common",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 35": {
+        "Company": "Medpace Holdings, Inc. - Common",
+        "Action": "S (partial)",
+        "Date": "07/26/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 36": {
+        "Company": "Meta Platforms, Inc. - Class A",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 37": {
+        "Company": "Netflix, Inc. - Common Stock (NFLX)",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 38": {
+        "Company": "Northrop Grumman Corporation",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 39": {
+        "Company": "Pacific Premier Bancorp Inc -",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 40": {
+        "Company": "Paragon 28, Inc. Common Stock",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 41": {
+        "Company": "PT Telekomunikasi Indonesia, Tbk",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 42": {
+        "Company": "Regeneron Pharmaceuticals, Inc. -",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 43": {
+        "Company": "ROCHE HOLDING LTD S/ADR",
+        "Action": "P",
+        "Date": "07/23/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 44": {
+        "Company": "Salesforce, Inc. Common Stock (CRM)",
+        "Action": "S",
+        "Date": "07/22/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 45": {
+        "Company": "Schneider National, Inc. Common",
+        "Action": "P",
+        "Date": "07/26/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 46": {
+        "Company": "Shell PLC American Depositary",
+        "Action": "P",
+        "Date": "07/05/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 47": {
+        "Company": "Shionogi & Co Ltd Unsponsored ADR",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 48": {
+        "Company": "Shoals Technologies Group, Inc. -",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 49": {
+        "Company": "Sony Group Corporation American",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 50": {
+        "Company": "SpringWorks Therapeutics, Inc. -",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 51": {
+        "Company": "Taiwan Semiconductor Manufacturing",
+        "Action": "S (partial)",
+        "Date": "07/05/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 52": {
+        "Company": "Tesla, Inc. - Common Stock (TSLA)",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 53": {
+        "Company": "Tesla, Inc. - Common Stock (TSLA)",
+        "Action": "S (partial)",
+        "Date": "07/29/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 54": {
+        "Company": "Tesla, Inc. - Common Stock (TSLA)",
+        "Action": "S (partial)",
+        "Date": "07/24/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 55": {
+        "Company": "Trane Technologies plc (TT) [ST]",
+        "Action": "S (partial)",
+        "Date": "07/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Transaction 56": {
+        "Company": "Viavi Solutions Inc. - Common Stock",
+        "Action": "P",
+        "Date": "07/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Morgan Stanley - Select UMA Account # 1"
+    },
+    "Amount purchased": "30030 - 450000",
+    "Amount sold": "26026 - 390000"
+}
