@@ -1,0 +1,12 @@
+{
+    "Transaction 1": {
+        "Company": "REOF XXVI, LLC [AB]",
+        "Ticker": "VRT",
+        "Action": "P",
+        "Date": "08/13/2024",
+        "Amount": "$250,001 - $500,000",
+        "Description": "Investment in LLC which is acquiring and managing a commercial office property at 631 Howard Street in"
+    },
+    "Amount purchased": "250001 - 500000",
+    "Amount sold": "0 - 0"
+}

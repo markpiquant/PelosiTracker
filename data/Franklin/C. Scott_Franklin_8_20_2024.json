@@ -1,0 +1,18 @@
+{
+    "Transaction 1": {
+        "Company": "(ACN) [ST]",
+        "Action": "P",
+        "Date": "08/02/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Fidelity Roth IRA"
+    },
+    "Transaction 2": {
+        "Company": "(ACN) [ST]",
+        "Action": "P",
+        "Date": "08/07/2024",
+        "Amount": "$50,001 - $100,000",
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Fidelity Traditional IRA"
+    },
+    "Amount purchased": "51002 - 115000",
+    "Amount sold": "0 - 0"
+}

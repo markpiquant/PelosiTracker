@@ -1,0 +1,81 @@
+{
+    "Transaction 1": {
+        "Company": "Altria Group, Inc. (MO) [ST]",
+        "Action": "P",
+        "Date": "01/11/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "None"
+    },
+    "Transaction 2": {
+        "Company": "Altria Group, Inc. (MO) [ST]",
+        "Action": "S",
+        "Date": "01/10/2024",
+        "Amount": "$15,001 - $50,000",
+        "Description": "None"
+    },
+    "Transaction 3": {
+        "Company": "Altria Group, Inc. (MO) [ST]",
+        "Action": "S",
+        "Date": "01/16/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "None"
+    },
+    "Transaction 4": {
+        "Company": "Cross Timbers Royalty Trust (CRT)",
+        "Action": "S",
+        "Date": "01/17/2024",
+        "Amount": "$15,001 - $50,000",
+        "Description": "None"
+    },
+    "Transaction 5": {
+        "Company": "Duke Energy Corporation Depositary",
+        "Action": "P",
+        "Date": "01/16/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "None"
+    },
+    "Transaction 6": {
+        "Company": "Energy Transfer LP Common Units",
+        "Action": "P",
+        "Date": "01/16/2024",
+        "Amount": "$15,001 - $50,000",
+        "Description": "None"
+    },
+    "Transaction 7": {
+        "Company": "Energy Transfer LP Common Units",
+        "Action": "P",
+        "Date": "01/17/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "Filing ID #20024424"
+    },
+    "Transaction 8": {
+        "Company": "Energy Transfer LP Common Units",
+        "Action": "P",
+        "Date": "01/18/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "None"
+    },
+    "Transaction 9": {
+        "Company": "Hercules Capital, Inc. (HTGC) [ST]",
+        "Action": "P",
+        "Date": "01/16/2024",
+        "Amount": "$15,001 - $50,000",
+        "Description": "None"
+    },
+    "Transaction 10": {
+        "Company": "Schwab U.S. Large-Cap ETF (SCHX)",
+        "Action": "P",
+        "Date": "01/08/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "None"
+    },
+    "Transaction 11": {
+        "Company": "Schwab U.S. Large-Cap ETF (SCHX)",
+        "Action": "P",
+        "Date": "01/17/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "None"
+    },
+    "Amount purchased": "36008 - 190000",
+    "Amount sold": "31003 - 115000"
+}

@@ -1,0 +1,32 @@
+{
+    "Transaction 1": {
+        "Company": "Alliance Resource Partners, L.P. -",
+        "Action": "P",
+        "Date": "11/14/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "None"
+    },
+    "Transaction 2": {
+        "Company": "AT&T Inc. Depositary Shares, each",
+        "Action": "P",
+        "Date": "11/01/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "None"
+    },
+    "Transaction 3": {
+        "Company": "Energy Transfer LP Common Units",
+        "Action": "P",
+        "Date": "11/19/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "None"
+    },
+    "Transaction 4": {
+        "Company": "Hercules Capital, Inc. Common Stock",
+        "Action": "P",
+        "Date": "11/20/2024",
+        "Amount": "$1,001 - $15,000",
+        "Description": "None"
+    },
+    "Amount purchased": "4004 - 60000",
+    "Amount sold": "0 - 0"
+}

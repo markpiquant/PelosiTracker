@@ -1,0 +1,11 @@
+{
+    "Transaction 1": {
+        "Company": "Hercules Capital, Inc. Common Stock",
+        "Action": "P",
+        "Date": "10/23/2024",
+        "Amount": "$15,001 - $50,000",
+        "Description": "None"
+    },
+    "Amount purchased": "15001 - 50000",
+    "Amount sold": "0 - 0"
+}
