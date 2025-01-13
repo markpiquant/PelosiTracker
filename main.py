@@ -19,4 +19,4 @@ if __name__ == '__main__':
     # Get the data
     gd = GetData(trader, year)
     gd.fetch_trades()
-    gd.extract_trades_from_pdf() #Nancy_Pelosi_2_23_2024.pdf
+    gd.extract_trades_from_pdf()
