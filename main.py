@@ -13,8 +13,8 @@ from utils.updateindex import UpdateIndex
 
 if __name__ == '__main__':
     
-    year='2024'
-    trader= 'Pelosi' # can be set to trader='all' to get all the traders
+    year='2025'
+    trader= 'Green' # can be set to trader='all' to get all the traders
 
     # Get the data
     gd = GetData(trader, year)

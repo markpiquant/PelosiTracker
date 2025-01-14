@@ -2,33 +2,41 @@
     "Transaction 1": {
         "Company": "Broadcom Inc. - Common Stock",
         "Ticker": "AVGO",
+        "ISIN": "US11135F1012",
         "Action": "P",
         "Date": "06/24/2024",
         "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 160.7521457479169,
         "Description": "Purchased 20 call options with a strike price of $800 and an expiration date of 6/20/25."
     },
     "Transaction 2": {
         "Company": "NVIDIA Corporation - Common",
         "Ticker": "NVDA",
+        "ISIN": "US67066G1040",
         "Action": "P",
         "Date": "06/26/2024",
         "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 126.24549662134089,
         "Description": "Purchased 10,000 shares."
     },
     "Transaction 3": {
         "Company": "Tesla, Inc. - Common Stock (TSLA)",
         "Ticker": "TSLA",
+        "ISIN": "US88160R1014",
         "Action": "S",
         "Date": "06/24/2024",
         "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 183.7750015258789,
         "Description": "Sold 2,500 shares."
     },
     "Transaction 4": {
         "Company": "Visa Inc. (V) [ST]",
         "Ticker": "V",
+        "ISIN": "US92826C8394",
         "Action": "S (partial)",
         "Date": "07/01/2024",
         "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 262.48859862887764,
         "Description": "Sold 2,000 shares."
     },
     "Amount purchased": "2000002 - 10000000",
