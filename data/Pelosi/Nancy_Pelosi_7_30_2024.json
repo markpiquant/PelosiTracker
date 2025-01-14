@@ -2,17 +2,21 @@
     "Transaction 1": {
         "Company": "Microsoft Corporation - Common",
         "Ticker": "MSFT",
+        "ISIN": "US5949181045",
         "Action": "S (partial)",
         "Date": "07/26/2024",
         "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 420.13525055696084,
         "Description": "Sold 5,000 shares."
     },
     "Transaction 2": {
         "Company": "NVIDIA Corporation - Common Stock",
         "Ticker": "NVDA",
+        "ISIN": "US67066G1040",
         "Action": "P",
         "Date": "07/26/2024",
         "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 114.60730231459613,
         "Description": "Purchased 10,000 shares."
     },
     "Amount purchased": "1000001 - 5000000",

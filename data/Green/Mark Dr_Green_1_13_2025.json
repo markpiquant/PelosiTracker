@@ -1,0 +1,14 @@
+{
+    "Transaction 1": {
+        "Company": "NGL ENERGY PARTNERS LP",
+        "Ticker": "NGL",
+        "ISIN": "US62913M1071",
+        "Action": "S",
+        "Date": "01/02/2025",
+        "Amount": "$15,001 - $50,000",
+        "Av_Stock_price_at_t0": 5.0899999141693115,
+        "Description": "S\u0297\u0284\u028a\u0291\u028e\u0286\u028b\u0290\u0289 O\u0288: Equitable Advisors Investment Account"
+    },
+    "Amount purchased": "0 - 0",
+    "Amount sold": "15001 - 50000"
+}

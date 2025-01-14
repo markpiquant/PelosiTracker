@@ -10,11 +10,14 @@ import fitz # PyMuPDF
 import json
 import re
 import itertools
+import yfinance as yf
+from datetime import datetime, timedelta
 from yahooquery import search
 from fuzzywuzzy import fuzz
 
 # personal imports
 from utils.Paths import PATH, DATAPATH
+from utils.API_KEYS import FMP_KEY
 
 class GetData:
     def __init__(self, trader, year):
@@ -137,7 +140,6 @@ class GetData:
                 match = re.search(r'(.*?)(?<![./-])\b(S|P)\b(?![./-])|\bS \(partial\)\b|\bP \(partial\)\b', elem[0])
                 if match:
                     elem = [match.group(1).strip(), match.group(2)] + elem[1:]
-
             
             while elem[1] not in ['P','S','P (partial)','S (partial)', 'E']:
                 elem=[elem[0]]+elem[2:]
@@ -156,10 +158,13 @@ class GetData:
             # rangement des données dans un dictionnaire
             d['Transaction ' + str(i)] = {}
             d['Transaction ' + str(i)]['Company'] = elem[0]
-            d['Transaction ' + str(i)]['Ticker']=GetData.get_ticker_from_name(elem[0])
+            ticker=GetData.get_ticker_from_name(elem[0])
+            d['Transaction ' + str(i)]['Ticker'] = ticker
+            d['Transaction ' + str(i)]['ISIN'] = GetData.get_isin_from_ticker(ticker)
             d['Transaction ' + str(i)]['Action'] = elem[1]
             d['Transaction ' + str(i)]['Date'] = elem[2]
             d['Transaction ' + str(i)]['Amount'] = elem[3]
+            d['Transaction ' + str(i)]['Av_Stock_price_at_t0'] = GetData.get_average_price(ticker, datetime.strptime(elem[2], "%m/%d/%Y").strftime("%Y-%m-%d"))
             try:
                 d['Transaction ' + str(i)]['Description'] = elem[5].replace("D\u0287\u0295\u0285\u0294\u028b\u0292\u0296\u028b\u0291\u0290: ", "")
             except IndexError:
@@ -228,3 +233,33 @@ class GetData:
                             return "NA"
         except Exception as e:
             return f"Erreur lors de la recherche: {e}"
+        
+    @staticmethod
+    def get_isin_from_ticker(ticker):
+        if ticker=='NA':
+            return 'NA'
+        else:
+            url = f"https://financialmodelingprep.com/api/v3/profile/{ticker}?apikey={FMP_KEY}"
+            response = requests.get(url)
+            
+            if response.status_code == 200:
+                data = response.json()
+                if data:
+                    info=data[0]  # Le profil de l'entreprise est le premier élément de la liste
+            
+            return info['isin']
+    
+    @staticmethod
+    def get_average_price(ticker, date):
+        stock = yf.Ticker(ticker)
+        start=datetime.strptime(date, "%Y-%m-%d")
+        end=start + timedelta(days=1)
+        end=end.strftime("%Y-%m-%d")
+        historical_data = stock.history(start=start, end=end)
+
+        if not historical_data.empty:
+            average_price = (historical_data['Open'][0] + historical_data['Close'][0]) / 2
+            return average_price
+        return None
+
+   

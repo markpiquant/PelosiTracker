@@ -2,17 +2,21 @@
     "Transaction 1": {
         "Company": "Palo Alto Networks, Inc. (PANW)",
         "Ticker": "PANW",
+        "ISIN": "US6974351057",
         "Action": "P",
         "Date": "02/12/2024",
         "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 186.8550033569336,
         "Description": "Purchased 50 call options with a strike price of $200 and an expiration date of 1/17/25."
     },
     "Transaction 2": {
         "Company": "Palo Alto Networks, Inc. (PANW)",
         "Ticker": "PANW",
+        "ISIN": "US6974351057",
         "Action": "P",
         "Date": "02/21/2024",
         "Amount": "$100,001 - $250,000",
+        "Av_Stock_price_at_t0": 134.2925033569336,
         "Description": "Purchased 20 call options with a strike price of $200 and an expiration date of 1/17/25."
     },
     "Amount purchased": "600002 - 1250000",
