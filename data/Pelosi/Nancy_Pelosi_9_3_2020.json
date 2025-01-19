@@ -1,0 +1,15 @@
+{
+    "Transaction 1": {
+        "Company": "Facebook, Inc. - Class A (FB) [ST]",
+        "Ticker": "META",
+        "ISIN": "US30303M1027",
+        "Action": "S",
+        "Date": "08/07/2020",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 265.25,
+        "Description": {
+            "type": "Stock",
+            "original": "DESCRIPTION: Contribution of 5,000 shares held personally to The Paul & Nancy Pelosi Charitable Foundation via transfer"
+        }
+    }
+}

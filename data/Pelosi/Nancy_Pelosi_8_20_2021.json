@@ -1,0 +1,54 @@
+{
+    "Transaction 1": {
+        "Company": "NVIDIA Corporation (NVDA) [ST]",
+        "Ticker": "NVDA",
+        "ISIN": "US67066G1040",
+        "Action": "P",
+        "Date": "07/23/2021",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 19.57,
+        "Description": {
+            "type": "Stock",
+            "original": "DESCRIPTION: Purchased 5,000 shares."
+        }
+    },
+    "Transaction 2": {
+        "Company": "NVIDIA Corporation (NVDA) [OP]",
+        "Ticker": "NVDA",
+        "ISIN": "US67066G1040",
+        "Action": "P",
+        "Date": "07/23/2021",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 19.57,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Purchased 50 call options with a strike price of $100 and an expiration date of 9/16/22."
+        }
+    },
+    "Transaction 3": {
+        "Company": "REOF XXII, llC [AB]",
+        "Ticker": "VRT",
+        "ISIN": "US92537N1081",
+        "Action": "P",
+        "Date": "07/13/2021",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 27.25,
+        "Description": {
+            "type": "Unknown",
+            "original": "DESCRIPTION: Investment in llC which is acquiring eleven Marriott-branded hotels (Rogers, AR - 1, Phoenix, AZ - 1,"
+        }
+    },
+    "Transaction 4": {
+        "Company": "Slack Technologies, Inc. Class A",
+        "Ticker": "PCLA",
+        "ISIN": "US71989C1099",
+        "Action": "S",
+        "Date": "07/22/2021",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": null,
+        "Description": {
+            "type": "Unknown",
+            "original": "FIlINg STATuS: New"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Transaction 1": {
+        "Company": "CrowdStrike Holdings, Inc. - Class",
+        "Ticker": "CRWD",
+        "ISIN": "US22788C1053",
+        "Action": "P",
+        "Date": "09/03/2020",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 130.12,
+        "Description": {
+            "type": "Stock",
+            "original": "DESCRIPTION: Purchased 5,000 shares."
+        }
+    }
+}

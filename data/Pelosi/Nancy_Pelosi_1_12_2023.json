@@ -1,0 +1,171 @@
+{
+    "Transaction 1": {
+        "Company": "Alliance Bernstein Holding L.P. Units",
+        "Ticker": "WAL",
+        "ISIN": "US9576381092",
+        "Action": "S (partial)",
+        "Date": "12/28/2022",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 54.21,
+        "Description": {
+            "type": "Unknown",
+            "original": "L\u0291\u0285\u0283\u0296\u028b\u0291\u0290: New York, NY, US"
+        }
+    },
+    "Transaction 2": {
+        "Company": "Alphabet Inc. - Class A (GOOGL) [ST]",
+        "Ticker": "GOOG",
+        "ISIN": "US02079K1079",
+        "Action": "S",
+        "Date": "12/28/2022",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 86.67,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 10,000 shares."
+        }
+    },
+    "Transaction 3": {
+        "Company": "Alphabet Inc. - Class A (GOOGL) [ST]",
+        "Ticker": "GOOG",
+        "ISIN": "US02079K1079",
+        "Action": "S",
+        "Date": "12/20/2022",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 88.86,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 10,000 shares."
+        }
+    },
+    "Transaction 4": {
+        "Company": "Alphabet Inc. - Class A (GOOGL) [ST]",
+        "Ticker": "GOOG",
+        "ISIN": "US02079K1079",
+        "Action": "S",
+        "Date": "12/21/2022",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 89.67,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 10,000 shares."
+        }
+    },
+    "Transaction 5": {
+        "Company": "Netflix, Inc. (NFLX) [ST]",
+        "Ticker": "NFLX",
+        "ISIN": "US64110L1061",
+        "Action": "S (partial)",
+        "Date": "12/29/2022",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 287.15,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 1,000 shares."
+        }
+    },
+    "Transaction 6": {
+        "Company": "Netflix, Inc. (NFLX) [ST]",
+        "Ticker": "NFLX",
+        "ISIN": "US64110L1061",
+        "Action": "S (partial)",
+        "Date": "12/30/2022",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 290.21,
+        "Description": {
+            "type": "Unknown",
+            "original": "Transaction"
+        }
+    },
+    "Transaction 7": {
+        "Company": "PayPal Holdings, Inc. (PYPL) [ST]",
+        "Ticker": "PYPL",
+        "ISIN": "US70450Y1038",
+        "Action": "S (partial)",
+        "Date": "12/21/2022",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 69.01,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 5,000 shares."
+        }
+    },
+    "Transaction 8": {
+        "Company": "PayPal Holdings, Inc. (PYPL) [ST]",
+        "Ticker": "PYPL",
+        "ISIN": "US70450Y1038",
+        "Action": "S (partial)",
+        "Date": "12/28/2022",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 67.84,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 5,000 shares."
+        }
+    },
+    "Transaction 9": {
+        "Company": "REOF XX, LLC [AB]",
+        "Ticker": "VRT",
+        "ISIN": "US92537N1081",
+        "Action": "P",
+        "Date": "12/27/2022",
+        "Amount": "$15,001 - $50,000",
+        "Av_Stock_price_at_t0": 12.69,
+        "Description": {
+            "type": "Unknown",
+            "original": "Additional investment in LLC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one),"
+        }
+    },
+    "Transaction 10": {
+        "Company": "Roblox Corporation Class A (RBLX)",
+        "Ticker": "RBLX",
+        "ISIN": "US7710491033",
+        "Action": "S (partial)",
+        "Date": "12/28/2022",
+        "Amount": "$100,001 - $250,000",
+        "Av_Stock_price_at_t0": 26.16,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 5,000 shares."
+        }
+    },
+    "Transaction 11": {
+        "Company": "Salesforce, Inc. (CRM) [OP]",
+        "Ticker": "CRM",
+        "ISIN": "US79466L3024",
+        "Action": "S",
+        "Date": "12/20/2022",
+        "Amount": "$9.00",
+        "Av_Stock_price_at_t0": 127.26,
+        "Description": {
+            "type": "Call Option",
+            "original": "Sold 130 call options purchased 12/20/21 with a strike price of $210 and an expiration date of 1/20/23."
+        }
+    },
+    "Transaction 12": {
+        "Company": "Tesla, Inc. (TSLA) [ST]",
+        "Ticker": "TSLA",
+        "ISIN": "US88160R1014",
+        "Action": "S (partial)",
+        "Date": "12/20/2022",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 141.93,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 5,000 shares."
+        }
+    },
+    "Transaction 13": {
+        "Company": "Walt Disney Company (DIS) [ST]",
+        "Ticker": "DIS",
+        "ISIN": "US2546871060",
+        "Action": "S (partial)",
+        "Date": "12/21/2022",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 85.99,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 10,000 shares."
+        }
+    }
+}

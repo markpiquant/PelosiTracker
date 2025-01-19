@@ -13,16 +13,16 @@ from utils.updateindex import UpdateIndex
 
 if __name__ == '__main__':
     
-    year='2022' # all
+    year='all' # all
     trader= 'Pelosi' # can be set to trader='all' to get all the traders
 
     # Get the data
-    gd = GetData(trader, year)
+    # gd = GetData(trader, year)
     # gd.fetch_trades()
-    gd.extract_trades_from_pdf() 
+    # gd.extract_trades_from_pdf() 
 
     # # Update the index
-    # ui = UpdateIndex()
-    # ui.update_positions()
+    ui = UpdateIndex()
+    ui.update_positions()
     
 

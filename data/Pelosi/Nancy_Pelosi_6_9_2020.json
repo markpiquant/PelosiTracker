@@ -1,0 +1,80 @@
+{
+    "Transaction 1": {
+        "Company": "apple Inc. (aaPl) [ST]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "S (partial)",
+        "Date": "05/08/2020",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 75.0,
+        "Description": {
+            "type": "Unknown",
+            "original": "FIlINg STaTuS: New"
+        }
+    },
+    "Transaction 2": {
+        "Company": "apple Inc. (aaPl) [ST]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "S (partial)",
+        "Date": "05/08/2020",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 75.0,
+        "Description": {
+            "type": "Unknown",
+            "original": "FIlINg STaTuS: New"
+        }
+    },
+    "Transaction 3": {
+        "Company": "apple Inc. (aaPl) [ST]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "S (partial)",
+        "Date": "05/08/2020",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 75.0,
+        "Description": {
+            "type": "Unknown",
+            "original": "FIlINg STaTuS: New"
+        }
+    },
+    "Transaction 4": {
+        "Company": "Facebook, Inc. - Class a (FB) [ST]",
+        "Ticker": "META",
+        "ISIN": "US30303M1027",
+        "Action": "S (partial)",
+        "Date": "05/08/2020",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 211.49,
+        "Description": {
+            "type": "Unknown",
+            "original": "FIlINg STaTuS: New"
+        }
+    },
+    "Transaction 5": {
+        "Company": "Interactive Brokers group, Inc. -",
+        "Ticker": "IBKR",
+        "ISIN": "US45841N1072",
+        "Action": "S (partial)",
+        "Date": "05/08/2020",
+        "Amount": "$100,001 - $250,000",
+        "Av_Stock_price_at_t0": 39.78,
+        "Description": {
+            "type": "Unknown",
+            "original": "FIlINg STaTuS: New"
+        }
+    },
+    "Transaction 6": {
+        "Company": "Morningstar, Inc. (MoRN) [ST]",
+        "Ticker": "MORN",
+        "ISIN": "US6177001095",
+        "Action": "S (partial)",
+        "Date": "05/08/2020",
+        "Amount": "$100,001 - $250,000",
+        "Av_Stock_price_at_t0": 139.49,
+        "Description": {
+            "type": "Unknown",
+            "original": "FIlINg STaTuS: New"
+        }
+    }
+}

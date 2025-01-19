@@ -140,7 +140,7 @@
         "isin": "US5949181045"
     },
     "slack Technologies, Inc. Class a": {
-        "ticker": "PCLA",
+        "ticker": "WORK",
         "isin": "US71989C1099"
     },
     "REOF XXV, LLC [AB]": {
@@ -238,5 +238,25 @@
     "P": {
         "ticker": "PCLA",
         "isin": "US71989C1099"
+    },
+    "American Express Company": {
+        "ticker": "AXP",
+        "isin": "US0258161092"
+    },
+    "PayPal Holdings, Inc. (PYPl)": {
+        "ticker": "PYPL",
+        "isin": "US70450Y1038"
+    },
+    "Walt Disney Company (DIS)": {
+        "ticker": "DIS",
+        "isin": "US2546871060"
+    },
+    "Microsoft Corporation (MSFT)": {
+        "ticker": "MSFT",
+        "isin": "US5949181045"
+    },
+    "Netflix, Inc. (NFlX) [ST]": {
+        "ticker": "NFLX",
+        "isin": "US64110L1061"
     }
 }

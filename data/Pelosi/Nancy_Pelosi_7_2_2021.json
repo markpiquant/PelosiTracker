@@ -1,0 +1,54 @@
+{
+    "Transaction 1": {
+        "Company": "Alphabet Inc. - Class A (gOOgl)",
+        "Ticker": "GOOG",
+        "ISIN": "US02079K1079",
+        "Action": "P",
+        "Date": "06/18/2021",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 125.19,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Exercised 40 call options (4,000 shares) expiring 6/18/21 at a strike price of $1200."
+        }
+    },
+    "Transaction 2": {
+        "Company": "Amazon.com, Inc. (AMZN) [OP]",
+        "Ticker": "AMZN",
+        "ISIN": "US0231351067",
+        "Action": "P",
+        "Date": "05/21/2021",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 161.33,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Purchased 20 call options with a strike price of $3,000 and an expiration date of 6/17/22."
+        }
+    },
+    "Transaction 3": {
+        "Company": "Apple Inc. (AAPl) [OP]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "P",
+        "Date": "05/21/2021",
+        "Amount": "$100,001 - $250,000",
+        "Av_Stock_price_at_t0": 124.22,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Purchased 50 call options with a strike price of $100 and an expiration date of 6/17/22."
+        }
+    },
+    "Transaction 4": {
+        "Company": "NVIDIA Corporation (NVDA) [OP]",
+        "Ticker": "NVDA",
+        "ISIN": "US67066G1040",
+        "Action": "P",
+        "Date": "06/03/2021",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 16.8,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Purchased 50 call options with a strike price of $400 and an expiration date of 6/17/22."
+        }
+    }
+}

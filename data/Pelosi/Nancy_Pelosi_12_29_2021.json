@@ -1,0 +1,80 @@
+{
+    "Transaction 1": {
+        "Company": "Alphabet Inc. - Class C Capital",
+        "Ticker": "GOOG",
+        "ISIN": "US02079K1079",
+        "Action": "P",
+        "Date": "12/17/2021",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 142.25,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Purchased 10 call options with a strike price of $2000 and an expiration date of 9/16/22."
+        }
+    },
+    "Transaction 2": {
+        "Company": "Micron Technology, Inc. (Mu)",
+        "Ticker": "MU",
+        "ISIN": "US5951121038",
+        "Action": "P",
+        "Date": "12/21/2021",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 88.06,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Purchased 100 call options with a strike price of $50 and an expiration date of 9/16/22."
+        }
+    },
+    "Transaction 3": {
+        "Company": "REOF XX, llC [AB]",
+        "Ticker": "VRT",
+        "ISIN": "US92537N1081",
+        "Action": "P",
+        "Date": "12/22/2021",
+        "Amount": "$50,001 - $100,000",
+        "Av_Stock_price_at_t0": 24.01,
+        "Description": {
+            "type": "Unknown",
+            "original": "DESCRIPTION: Additional investment in llC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one),"
+        }
+    },
+    "Transaction 4": {
+        "Company": "Roblox Corporation Class A",
+        "Ticker": "RBLX",
+        "ISIN": "US7710491033",
+        "Action": "P",
+        "Date": "12/20/2021",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 97.94,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Purchased 100 call options with a strike price of $100 and an expiration date of 1/20/23."
+        }
+    },
+    "Transaction 5": {
+        "Company": "Salesforce.com Inc (CRM) [OP]",
+        "Ticker": "CRM",
+        "ISIN": "US79466L3024",
+        "Action": "P",
+        "Date": "12/20/2021",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 247.17,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Purchased 100 call options with a strike price of $210 and an expiration date of 1/20/23."
+        }
+    },
+    "Transaction 6": {
+        "Company": "Salesforce.com Inc (CRM) [OP]",
+        "Ticker": "CRM",
+        "ISIN": "US79466L3024",
+        "Action": "P",
+        "Date": "12/20/2021",
+        "Amount": "$100,001 - $250,000",
+        "Av_Stock_price_at_t0": 247.17,
+        "Description": {
+            "type": "Unknown",
+            "original": "Transaction"
+        }
+    }
+}

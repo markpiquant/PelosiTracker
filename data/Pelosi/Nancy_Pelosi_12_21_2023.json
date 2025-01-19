@@ -1,0 +1,15 @@
+{
+    "Transaction 1": {
+        "Company": "NVIDIA Corporation (NVDA) [OP]",
+        "Ticker": "NVDA",
+        "ISIN": "US67066G1040",
+        "Action": "P",
+        "Date": "11/22/2023",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 49.27,
+        "Description": {
+            "type": "Call Option",
+            "original": "Purchased 50 call options with a strike price of $120 and an expiration date of 12/20/24."
+        }
+    }
+}

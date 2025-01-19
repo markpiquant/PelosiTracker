@@ -1,0 +1,54 @@
+{
+    "Transaction 1": {
+        "Company": "AllianceBernstein Holding l.P.",
+        "Ticker": "AB",
+        "ISIN": "US01881G1067",
+        "Action": "P",
+        "Date": "12/22/2020",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 24.07,
+        "Description": {
+            "type": "Stock",
+            "original": "DESCRIPTION: Purchased 20,000 shares."
+        }
+    },
+    "Transaction 2": {
+        "Company": "Apple Inc. (AAPl) [OP]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "P",
+        "Date": "12/22/2020",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 128.83,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Purchased 100 call options with a strike price of $100 and an expiration date of 1/21/22."
+        }
+    },
+    "Transaction 3": {
+        "Company": "Tesla, Inc. (TSlA) [OP]",
+        "Ticker": "TSLA",
+        "ISIN": "US88160R1014",
+        "Action": "P",
+        "Date": "12/22/2020",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 214.72,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Purchased 25 call options with a strike price of $500 and an expiration date of 3/18/22."
+        }
+    },
+    "Transaction 4": {
+        "Company": "Walt Disney Company (DIS) [OP]",
+        "Ticker": "DIS",
+        "ISIN": "US2546871060",
+        "Action": "P",
+        "Date": "12/22/2020",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 168.15,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Purchased 100 call options with a strike price of $100 and an expiration date of 1/21/22."
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Transaction 1": {
+        "Company": "Apple Inc. (AAPL) [ST]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "P",
+        "Date": "06/15/2023",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 183.59,
+        "Description": {
+            "type": "Call Option",
+            "original": "Exercised 50 call options purchased 5/24/22 (5,000 shares) at a strike price of $80 with an expiration date of"
+        }
+    },
+    "Transaction 2": {
+        "Company": "Microsoft Corporation (MSFT) [ST]",
+        "Ticker": "MSFT",
+        "ISIN": "US5949181045",
+        "Action": "P",
+        "Date": "06/15/2023",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 338.84,
+        "Description": {
+            "type": "Call Option",
+            "original": "Exercised 50 call options purchased 5/24/22 (5,000 shares) at a strike price of $180 with an expiration date"
+        }
+    }
+}

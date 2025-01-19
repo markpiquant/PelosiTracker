@@ -1,0 +1,67 @@
+{
+    "Transaction 1": {
+        "Company": "amazon.com, Inc. (aMZN) [sT]",
+        "Ticker": "AMZN",
+        "ISIN": "US0231351067",
+        "Action": "P",
+        "Date": "01/16/2020",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 94.02,
+        "Description": {
+            "type": "Call Option",
+            "original": "DEsCRIPTIoN: Exercised 30 call options (3,000 shares) expiring 1/17/20 at a strike price of $1600."
+        }
+    },
+    "Transaction 2": {
+        "Company": "amazon.com, Inc. (aMZN) [sT]",
+        "Ticker": "AMZN",
+        "ISIN": "US0231351067",
+        "Action": "s",
+        "Date": "01/16/2020",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 94.02,
+        "Description": {
+            "type": "Call Option",
+            "original": "DEsCRIPTIoN: sold 20 call options with a strike price of $1,700 and an expiration date of 1/17/20."
+        }
+    },
+    "Transaction 3": {
+        "Company": "amazon.com, Inc. (aMZN) [sT]",
+        "Ticker": "AMZN",
+        "ISIN": "US0231351067",
+        "Action": "s",
+        "Date": "01/16/2020",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 94.02,
+        "Description": {
+            "type": "Call Option",
+            "original": "DEsCRIPTIoN: sold 20 call options with a strike price of $1,600 and an expiration date of 1/17/20."
+        }
+    },
+    "Transaction 4": {
+        "Company": "Facebook, Inc. - Class a (FB) [sT]",
+        "Ticker": "META",
+        "ISIN": "US30303M1027",
+        "Action": "P",
+        "Date": "01/16/2020",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 221.32,
+        "Description": {
+            "type": "Call Option",
+            "original": "DEsCRIPTIoN: Exercised 30 call options (3,000 shares) expiring 1/17/20 at a strike price of $140."
+        }
+    },
+    "Transaction 5": {
+        "Company": "Facebook, Inc. - Class a (FB) [sT]",
+        "Ticker": "META",
+        "ISIN": "US30303M1027",
+        "Action": "P",
+        "Date": "01/16/2020",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 221.32,
+        "Description": {
+            "type": "Call Option",
+            "original": "DEsCRIPTIoN: Exercised 20 call options (2,000 shares) expiring 1/17/20 at a strike price of $150."
+        }
+    }
+}

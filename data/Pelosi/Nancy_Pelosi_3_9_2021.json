@@ -1,0 +1,28 @@
+{
+    "Transaction 1": {
+        "Company": "AllianceBernstein Holding l.P.",
+        "Ticker": "AB",
+        "ISIN": "US01881G1067",
+        "Action": "P",
+        "Date": "02/18/2021",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 27.38,
+        "Description": {
+            "type": "Stock",
+            "original": "DESCRIPTION: Purchased 15,000 shares."
+        }
+    },
+    "Transaction 2": {
+        "Company": "AllianceBernstein Holding l.P.",
+        "Ticker": "AB",
+        "ISIN": "US01881G1067",
+        "Action": "P",
+        "Date": "02/23/2021",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 26.91,
+        "Description": {
+            "type": "Stock",
+            "original": "DESCRIPTION: Purchased 25,000 shares."
+        }
+    }
+}

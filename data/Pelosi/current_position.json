@@ -1,0 +1,1160 @@
+{
+    "US02079K1079": {
+        "Company": "Alphabet Inc. - Class C Capital Stock",
+        "aggregated_value": -2250001.5,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "12/28/2022",
+                    "amount": 750000.5,
+                    "description": "Sold 10,000 shares.",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 86.67,
+                    "estimated_real_position_size": 866700.0
+                },
+                {
+                    "date": "12/21/2022",
+                    "amount": 750000.5,
+                    "description": "Sold 10,000 shares.",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 89.67,
+                    "estimated_real_position_size": 896700.0
+                },
+                {
+                    "date": "12/20/2022",
+                    "amount": 750000.5,
+                    "description": "Sold 10,000 shares.",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 88.86,
+                    "estimated_real_position_size": 888600.0
+                }
+            ],
+            "options": [
+                {
+                    "date": "09/16/2022",
+                    "amount": 3000000.5,
+                    "description": "Exercised 200 call options purchased 12/17/21 (20,000 shares) at a strike price of $100 with an expiration",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 102.93,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/17/2021",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Purchased 10 call options with a strike price of $2000 and an expiration date of 9/16/22.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 142.25,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "06/18/2021",
+                    "amount": 3000000.5,
+                    "description": "DESCRIPTION: Exercised 40 call options (4,000 shares) expiring 6/18/21 at a strike price of $1200.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 125.19,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "02/27/2020",
+                    "amount": 750000.5,
+                    "description": "DEsCRIPTIoN: Purchased 40 call options with a strike price of $1200 and an expiration date of 6/18/2021.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 66.76,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": []
+        }
+    },
+    "US5951121038": {
+        "Company": "Micron Technology, Inc. (MU) [OP]",
+        "aggregated_value": 0,
+        "transactions": {
+            "stocks": [],
+            "options": [
+                {
+                    "date": "09/16/2022",
+                    "amount": 32500.5,
+                    "description": "Sold 100 call options purchased 12/21/21 with a strike price of $50 and an expiration date of 9/16/22.",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 51.56,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/21/2021",
+                    "amount": 375000.5,
+                    "description": "DESCRIPTION: Purchased 100 call options with a strike price of $50 and an expiration date of 9/16/22.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 88.06,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": []
+        }
+    },
+    "US67066G1040": {
+        "Company": "NVIDIA Corporation (NVDA) [OP]",
+        "aggregated_value": 3750001.0,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "07/26/2024",
+                    "amount": 3000000.5,
+                    "description": "Purchased 10,000 shares.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 114.61,
+                    "estimated_real_position_size": 1146100.0
+                },
+                {
+                    "date": "06/26/2024",
+                    "amount": 3000000.5,
+                    "description": "Purchased 10,000 shares.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 126.25,
+                    "estimated_real_position_size": 1262500.0
+                },
+                {
+                    "date": "07/26/2022",
+                    "amount": 3000000.5,
+                    "description": "Sold 25,000 shares.",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 16.69,
+                    "estimated_real_position_size": 417250.00000000006
+                },
+                {
+                    "date": "07/23/2021",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Purchased 5,000 shares.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 19.57,
+                    "estimated_real_position_size": 97850.0
+                }
+            ],
+            "options": [
+                {
+                    "date": "11/22/2023",
+                    "amount": 3000000.5,
+                    "description": "Purchased 50 call options with a strike price of $120 and an expiration date of 12/20/24.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 49.27,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "09/16/2022",
+                    "amount": 175000.5,
+                    "description": "Sold 50 call options purchased 7/23/21 with a strike price of $100 and an expiration date of 9/16/22.",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 12.96,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "06/17/2022",
+                    "amount": 3000000.5,
+                    "description": "Exercised 200 call options (20,000 shares) expiring 6/17/22 at a strike price of $100.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 15.74,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "07/23/2021",
+                    "amount": 375000.5,
+                    "description": "DESCRIPTION: Purchased 50 call options with a strike price of $100 and an expiration date of 9/16/22.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 19.57,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "06/03/2021",
+                    "amount": 3000000.5,
+                    "description": "DESCRIPTION: Purchased 50 call options with a strike price of $400 and an expiration date of 6/17/22.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 16.8,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": []
+        }
+    },
+    "US2546871060": {
+        "Company": "Walt Disney Company (DIS) [OP]",
+        "aggregated_value": -750000.5,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "12/21/2022",
+                    "amount": 750000.5,
+                    "description": "Sold 10,000 shares.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 85.99,
+                    "estimated_real_position_size": 859900.0
+                }
+            ],
+            "options": [
+                {
+                    "date": "09/16/2022",
+                    "amount": 1.0,
+                    "description": "50 call options purchased 12/17/21 with a strike price of $130 and an expiration date of 9/16/22 expired with",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 107.4,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/21/2022",
+                    "amount": 3000000.5,
+                    "description": "DESCRIPTION: Exercised 100 call options (10,000 shares) expiring 1/21/22 at a strike price of $100.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 137.61,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/21/2022",
+                    "amount": 3000000.5,
+                    "description": "DESCRIPTION: Exercised 100 call options (10,000 shares) expiring 1/21/22 at a strike price of $100.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 137.61,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/22/2020",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Purchased 100 call options with a strike price of $100 and an expiration date of 1/21/22.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 168.15,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": []
+        }
+    },
+    "US22788C1053": {
+        "Company": "CrowdStrike Holdings, Inc. - Class",
+        "aggregated_value": 750000.5,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "09/03/2020",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Purchased 5,000 shares.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 130.12,
+                    "estimated_real_position_size": 650600.0
+                }
+            ],
+            "options": [],
+            "autres": []
+        }
+    },
+    "US92826C8394": {
+        "Company": "Visa Inc. (V) [ST]",
+        "aggregated_value": -6750001.5,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "07/01/2024",
+                    "amount": 750000.5,
+                    "description": "Sold 2,000 shares.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 262.49,
+                    "estimated_real_position_size": 524980.0
+                },
+                {
+                    "date": "11/08/2022",
+                    "amount": 3000000.5,
+                    "description": "Sold 20,000 shares.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 198.17,
+                    "estimated_real_position_size": 3963399.9999999995
+                },
+                {
+                    "date": "06/21/2022",
+                    "amount": 3000000.5,
+                    "description": "Sold 10,000 shares.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 191.28,
+                    "estimated_real_position_size": 1912800.0
+                }
+            ],
+            "options": [],
+            "autres": []
+        }
+    },
+    "US0378331005": {
+        "Company": "Apple Inc. (AAPL) [ST]",
+        "aggregated_value": -3000002.0,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "05/08/2023",
+                    "amount": 750000.5,
+                    "description": "Contribution of 2,900 shares held personally to Trinity College.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 171.45,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/30/2021",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Contribution of 3,000 shares held personally to the Paul F. Pelosi Endowed Fund at georgetown university.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 175.95,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/30/2021",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Contribution of 3,000 shares held personally to Trinity College.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 175.95,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "11/06/2020",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Contribution of 4,500 shares held personally to the Paul F. Pelosi Endowed Fund at georgetown university.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 115.88,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "options": [
+                {
+                    "date": "06/15/2023",
+                    "amount": 375000.5,
+                    "description": "Exercised 50 call options purchased 5/24/22 (5,000 shares) at a strike price of $80 with an expiration date of",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 183.59,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "03/17/2023",
+                    "amount": 750000.5,
+                    "description": "Exercised 100 call options purchased 5/13/22 (10,000 shares) at a strike price of $80 with an expiration date",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 154.16,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "06/17/2022",
+                    "amount": 175000.5,
+                    "description": "Sold 50 call options with a strike price of $100 and an expiration date of 6/17/22.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 129.06,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "05/24/2022",
+                    "amount": 375000.5,
+                    "description": "Purchased 50 call options with a strike price of $80 and an expiration date of 6/16/23.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 138.7,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "05/13/2022",
+                    "amount": 750000.5,
+                    "description": "Purchased 100 call options with a strike price of $80 and an expiration date of 3/17/23.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 143.89,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/21/2022",
+                    "amount": 3000000.5,
+                    "description": "DESCRIPTION: Exercised 100 call options (10,000 shares) expiring 1/21/22 at a strike price of $100.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 160.78,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/21/2022",
+                    "amount": 3000000.5,
+                    "description": "DESCRIPTION: Exercised 100 call options (10,000 shares) expiring 1/21/22 at a strike price of $100.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 160.78,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "05/21/2021",
+                    "amount": 175000.5,
+                    "description": "DESCRIPTION: Purchased 50 call options with a strike price of $100 and an expiration date of 6/17/22.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 124.22,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/22/2020",
+                    "amount": 375000.5,
+                    "description": "DESCRIPTION: Purchased 100 call options with a strike price of $100 and an expiration date of 1/21/22.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 128.83,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": [
+                {
+                    "date": "06/18/2020",
+                    "amount": 3000000.5,
+                    "description": "FIlINg STATuS: New",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 85.64,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "05/08/2020",
+                    "amount": 750000.5,
+                    "description": "FIlINg STaTuS: New",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 75.0,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "05/08/2020",
+                    "amount": 750000.5,
+                    "description": "FIlINg STaTuS: New",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 75.0,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "05/08/2020",
+                    "amount": 3000000.5,
+                    "description": "FIlINg STaTuS: New",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 75.0,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US92537N1081": {
+        "Company": "REOF XX, LLC [AB]",
+        "aggregated_value": 0,
+        "transactions": {
+            "stocks": [],
+            "options": [],
+            "autres": [
+                {
+                    "date": "08/13/2024",
+                    "amount": 375000.5,
+                    "description": "Investment in LLC which is acquiring and managing a commercial office property at 631 Howard Street in",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 74.84,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "03/09/2023",
+                    "amount": 750000.5,
+                    "description": "Investment in LLC which is acquiring and restoring a luxury hotel property in San Francisco, CA.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 15.6,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/27/2022",
+                    "amount": 32500.5,
+                    "description": "Additional investment in LLC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one),",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 12.69,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "08/24/2022",
+                    "amount": 32500.5,
+                    "description": "Additional investment in LLC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one),",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 12.13,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/22/2021",
+                    "amount": 75000.5,
+                    "description": "DESCRIPTION: Additional investment in llC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one),",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 24.01,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "07/13/2021",
+                    "amount": 375000.5,
+                    "description": "DESCRIPTION: Investment in llC which is acquiring eleven Marriott-branded hotels (Rogers, AR - 1, Phoenix, AZ - 1,",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 27.25,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "11/05/2020",
+                    "amount": 32500.5,
+                    "description": "DESCRIPTION: Additional investment in LLC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one),",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 17.54,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/21/2020",
+                    "amount": 75000.5,
+                    "description": "DESCRIPTIoN: Additional investment in LLC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one),",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 11.51,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US7710491033": {
+        "Company": "Roblox Corporation Class A",
+        "aggregated_value": -175000.5,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "12/28/2022",
+                    "amount": 175000.5,
+                    "description": "Sold 5,000 shares.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 26.16,
+                    "estimated_real_position_size": 130800.0
+                }
+            ],
+            "options": [
+                {
+                    "date": "01/20/2023",
+                    "amount": 1.0,
+                    "description": "100 call options purchased 12/20/21 with a strike price of $100 and an expiration date of 1/20/23 expired",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 34.53,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/20/2021",
+                    "amount": 375000.5,
+                    "description": "DESCRIPTION: Purchased 100 call options with a strike price of $100 and an expiration date of 1/20/23.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 97.94,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": []
+        }
+    },
+    "US79466L3024": {
+        "Company": "Salesforce.com Inc (CRM) [OP]",
+        "aggregated_value": 0,
+        "transactions": {
+            "stocks": [],
+            "options": [
+                {
+                    "date": "12/20/2022",
+                    "amount": 9.0,
+                    "description": "Sold 130 call options purchased 12/20/21 with a strike price of $210 and an expiration date of 1/20/23.",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 127.26,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/20/2021",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Purchased 100 call options with a strike price of $210 and an expiration date of 1/20/23.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 247.17,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": [
+                {
+                    "date": "12/20/2021",
+                    "amount": 175000.5,
+                    "description": "Transaction",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 247.17,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US9576381092": {
+        "Company": "Alliance Bernstein Holding L.P. Units",
+        "aggregated_value": 0,
+        "transactions": {
+            "stocks": [],
+            "options": [],
+            "autres": [
+                {
+                    "date": "12/28/2022",
+                    "amount": 750000.5,
+                    "description": "L\u0291\u0285\u0283\u0296\u028b\u0291\u0290: New York, NY, US",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 54.21,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US64110L1061": {
+        "Company": "Netflix, Inc. (NFLX) [ST]",
+        "aggregated_value": -375000.5,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "12/29/2022",
+                    "amount": 375000.5,
+                    "description": "Sold 1,000 shares.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 287.15,
+                    "estimated_real_position_size": 287150.0
+                }
+            ],
+            "options": [
+                {
+                    "date": "06/18/2020",
+                    "amount": 3000000.5,
+                    "description": "DESCRIPTION: Exercised 50 call options (5,000 shares) expiring 6/19/2020 at a strike price of $250.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 449.3,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": [
+                {
+                    "date": "12/30/2022",
+                    "amount": 375000.5,
+                    "description": "Transaction",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 290.21,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US70450Y1038": {
+        "Company": "PayPal Holdings, Inc. (PYPL) [ST]",
+        "aggregated_value": -750001.0,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "12/28/2022",
+                    "amount": 375000.5,
+                    "description": "Sold 5,000 shares.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 67.84,
+                    "estimated_real_position_size": 339200.0
+                },
+                {
+                    "date": "12/21/2022",
+                    "amount": 375000.5,
+                    "description": "Sold 5,000 shares.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 69.01,
+                    "estimated_real_position_size": 345050.0
+                }
+            ],
+            "options": [
+                {
+                    "date": "01/21/2022",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Exercised 50 call options (5,000 shares) expiring 1/21/22 at a strike price of $100.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 167.67,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/21/2022",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Exercised 50 call options (5,000 shares) expiring 1/21/22 at a strike price of $100.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 167.67,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": [
+                {
+                    "date": "06/12/2020",
+                    "amount": 750000.5,
+                    "description": "Filing ID #20016961",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 156.16,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US88160R1014": {
+        "Company": "Tesla, Inc. (TSLA) [ST]",
+        "aggregated_value": -1125001.0,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "06/24/2024",
+                    "amount": 375000.5,
+                    "description": "Sold 2,500 shares.",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 183.78,
+                    "estimated_real_position_size": 459450.0
+                },
+                {
+                    "date": "12/20/2022",
+                    "amount": 750000.5,
+                    "description": "Sold 5,000 shares.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 141.93,
+                    "estimated_real_position_size": 709650.0
+                }
+            ],
+            "options": [
+                {
+                    "date": "03/17/2022",
+                    "amount": 3000000.5,
+                    "description": "DESCRIPTION: Exercised 25 call options (2,500 shares) expiring 3/18/22 at a strike price of $500.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 283.76,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/22/2020",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Purchased 25 call options with a strike price of $500 and an expiration date of 3/18/22.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 214.72,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": []
+        }
+    },
+    "US01881G1067": {
+        "Company": "AllianceBernstein Holding l.P.",
+        "aggregated_value": 2250001.5,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "02/23/2021",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Purchased 25,000 shares.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 26.91,
+                    "estimated_real_position_size": 672750.0
+                },
+                {
+                    "date": "02/18/2021",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Purchased 15,000 shares.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 27.38,
+                    "estimated_real_position_size": 410700.0
+                },
+                {
+                    "date": "12/22/2020",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Purchased 20,000 shares.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 24.07,
+                    "estimated_real_position_size": 481400.0
+                }
+            ],
+            "options": [],
+            "autres": [
+                {
+                    "date": "01/27/2022",
+                    "amount": 375000.5,
+                    "description": "lOCATION: New York, NY, uS",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 36.2,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/27/2022",
+                    "amount": 375000.5,
+                    "description": "lOCATION: New York, NY, uS",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 36.2,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "02/23/2021",
+                    "amount": 750000.5,
+                    "description": "LOCATION: New York, NY, US",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 26.91,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "02/18/2021",
+                    "amount": 750000.5,
+                    "description": "LOCATION: New York, NY, US",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 27.38,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "12/22/2020",
+                    "amount": 750000.5,
+                    "description": "LOCATION: New York, NY, US",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 24.07,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US0231351067": {
+        "Company": "amazon.com, Inc. (aMZN) [sT]",
+        "aggregated_value": 0,
+        "transactions": {
+            "stocks": [],
+            "options": [
+                {
+                    "date": "05/21/2021",
+                    "amount": 750000.5,
+                    "description": "DESCRIPTION: Purchased 20 call options with a strike price of $3,000 and an expiration date of 6/17/22.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 161.33,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/16/2020",
+                    "amount": 3000000.5,
+                    "description": "DEsCRIPTIoN: Exercised 30 call options (3,000 shares) expiring 1/17/20 at a strike price of $1600.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 94.02,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/16/2020",
+                    "amount": 375000.5,
+                    "description": "DEsCRIPTIoN: sold 20 call options with a strike price of $1,700 and an expiration date of 1/17/20.",
+                    "action": "s",
+                    "Av_Stock_price_at_t0": 94.02,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/16/2020",
+                    "amount": 375000.5,
+                    "description": "DEsCRIPTIoN: sold 20 call options with a strike price of $1,600 and an expiration date of 1/17/20.",
+                    "action": "s",
+                    "Av_Stock_price_at_t0": 94.02,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/16/2020",
+                    "amount": 375000.5,
+                    "description": "DESCRIPTION: Sold 20 call options with a strike price of $1,700 and an expiration date of 1/17/20.",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 94.02,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/16/2020",
+                    "amount": 375000.5,
+                    "description": "DESCRIPTION: Sold 20 call options with a strike price of $1,600 and an expiration date of 1/17/20.",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 94.02,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": []
+        }
+    },
+    "US30303M1027": {
+        "Company": "Facebook, Inc. - Class a (FB) [sT]",
+        "aggregated_value": -3000000.5,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "08/07/2020",
+                    "amount": 3000000.5,
+                    "description": "DESCRIPTION: Contribution of 5,000 shares held personally to The Paul & Nancy Pelosi Charitable Foundation via transfer",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": 265.25,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "options": [
+                {
+                    "date": "01/16/2020",
+                    "amount": 375000.5,
+                    "description": "DEsCRIPTIoN: Exercised 30 call options (3,000 shares) expiring 1/17/20 at a strike price of $140.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 221.32,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/16/2020",
+                    "amount": 375000.5,
+                    "description": "DEsCRIPTIoN: Exercised 20 call options (2,000 shares) expiring 1/17/20 at a strike price of $150.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 221.32,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": [
+                {
+                    "date": "05/08/2020",
+                    "amount": 3000000.5,
+                    "description": "FIlINg STaTuS: New",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 211.49,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US6974351057": {
+        "Company": "Palo Alto Networks, Inc. (PANW)",
+        "aggregated_value": 0,
+        "transactions": {
+            "stocks": [],
+            "options": [
+                {
+                    "date": "02/21/2024",
+                    "amount": 175000.5,
+                    "description": "Purchased 20 call options with a strike price of $200 and an expiration date of 1/17/25.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 134.29,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "02/12/2024",
+                    "amount": 750000.5,
+                    "description": "Purchased 50 call options with a strike price of $200 and an expiration date of 1/17/25.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 186.86,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": []
+        }
+    },
+    "US0258161092": {
+        "Company": "American Express Company (AXP)",
+        "aggregated_value": 0,
+        "transactions": {
+            "stocks": [],
+            "options": [
+                {
+                    "date": "01/21/2022",
+                    "amount": 375000.5,
+                    "description": "DESCRIPTION: Exercised 50 call options (5,000 shares) expiring 1/21/22 at a strike price of $80.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 153.2,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "01/21/2022",
+                    "amount": 375000.5,
+                    "description": "DESCRIPTION: Exercised 50 call options (5,000 shares) expiring 1/21/22 at a strike price of $80.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 153.2,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "06/24/2020",
+                    "amount": 175000.5,
+                    "description": "DESCRIPTION: Purchased 50 call options with a strike price of $80 and an expiration date of 1/21/2022.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 90.75,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": []
+        }
+    },
+    "US34629L1035": {
+        "Company": "Forge Investments, LLC [AB]",
+        "aggregated_value": 0,
+        "transactions": {
+            "stocks": [],
+            "options": [],
+            "autres": [
+                {
+                    "date": "03/04/2024",
+                    "amount": 3000000.5,
+                    "description": "Investment in fund that owns Databricks stock. Databricks is a San Francisco engineering and analytic",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 1.99,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US5949181045": {
+        "Company": "Microsoft Corporation (MsFT)",
+        "aggregated_value": -3000000.5,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "07/26/2024",
+                    "amount": 3000000.5,
+                    "description": "Sold 5,000 shares.",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 420.14,
+                    "estimated_real_position_size": 2100700.0
+                }
+            ],
+            "options": [
+                {
+                    "date": "06/15/2023",
+                    "amount": 750000.5,
+                    "description": "Exercised 50 call options purchased 5/24/22 (5,000 shares) at a strike price of $180 with an expiration date",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 338.84,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "05/24/2022",
+                    "amount": 75000.5,
+                    "description": "Purchased 10 call options with a strike price of $180 and an expiration date of 6/16/23.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 253.32,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "05/24/2022",
+                    "amount": 375000.5,
+                    "description": "Purchased 40 call options with a strike price of $180 and an expiration date of 6/16/23.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 253.32,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "03/19/2021",
+                    "amount": 3000000.5,
+                    "description": "DESCRIPTION: Exercised 150 call options (15,000 shares) expiring 3/19/2021 at a strike price of $130.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 223.5,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "02/28/2020",
+                    "amount": 175000.5,
+                    "description": "DEsCRIPTIoN: Purchased 50 call options with a strike price of $130 and an expiration date of 3/19/2021.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 150.78,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "02/21/2020",
+                    "amount": 750000.5,
+                    "description": "DEsCRIPTIoN: Purchased 100 call options with a strike price of $130 and an expiration date of 3/19/2021.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 173.48,
+                    "estimated_real_position_size": 0
+                },
+                {
+                    "date": "02/20/2020",
+                    "amount": 375000.5,
+                    "description": "DEsCRIPTIoN: Purchased 100 call options with a strike price of $140 and an expiration date of 3/19/2021.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 178.09,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": [
+                {
+                    "date": "03/19/2021",
+                    "amount": 3000000.5,
+                    "description": "Filing ID #20018539",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 223.5,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US71989C1099": {
+        "Company": "slack Technologies, Inc. Class a",
+        "aggregated_value": 375000.5,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "02/20/2020",
+                    "amount": 375000.5,
+                    "description": "DEsCRIPTIoN: Purchased 10,000 shares.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 29.05,
+                    "estimated_real_position_size": 290500.0
+                }
+            ],
+            "options": [],
+            "autres": [
+                {
+                    "date": "07/22/2021",
+                    "amount": 375000.5,
+                    "description": "FIlINg STATuS: New",
+                    "action": "S",
+                    "Av_Stock_price_at_t0": null,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US9344231041": {
+        "Company": "Warner Bros. Discovery, Inc. - Series",
+        "aggregated_value": -75000.5,
+        "transactions": {
+            "stocks": [
+                {
+                    "date": "04/11/2022",
+                    "amount": 75000.5,
+                    "description": "2419 shares received as the result of a spinoff of AT&T (T) shares held.",
+                    "action": "E",
+                    "Av_Stock_price_at_t0": 24.43,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "options": [],
+            "autres": []
+        }
+    },
+    "US45841N1072": {
+        "Company": "Interactive Brokers group, Inc. -",
+        "aggregated_value": 0,
+        "transactions": {
+            "stocks": [],
+            "options": [],
+            "autres": [
+                {
+                    "date": "05/08/2020",
+                    "amount": 175000.5,
+                    "description": "FIlINg STaTuS: New",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 39.78,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US6177001095": {
+        "Company": "Morningstar, Inc. (MoRN) [ST]",
+        "aggregated_value": 0,
+        "transactions": {
+            "stocks": [],
+            "options": [],
+            "autres": [
+                {
+                    "date": "05/08/2020",
+                    "amount": 175000.5,
+                    "description": "FIlINg STaTuS: New",
+                    "action": "S (partial)",
+                    "Av_Stock_price_at_t0": 139.49,
+                    "estimated_real_position_size": 0
+                }
+            ]
+        }
+    },
+    "US11135F1012": {
+        "Company": "Broadcom Inc. - Common Stock",
+        "aggregated_value": 0,
+        "transactions": {
+            "stocks": [],
+            "options": [
+                {
+                    "date": "06/24/2024",
+                    "amount": 3000000.5,
+                    "description": "Purchased 20 call options with a strike price of $800 and an expiration date of 6/20/25.",
+                    "action": "P",
+                    "Av_Stock_price_at_t0": 160.75,
+                    "estimated_real_position_size": 0
+                }
+            ],
+            "autres": []
+        }
+    }
+}

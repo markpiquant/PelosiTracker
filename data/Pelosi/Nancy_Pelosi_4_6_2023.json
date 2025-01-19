@@ -1,0 +1,28 @@
+{
+    "Transaction 1": {
+        "Company": "Apple Inc. (AAPL) [ST]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "P",
+        "Date": "03/17/2023",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 154.16,
+        "Description": {
+            "type": "Call Option",
+            "original": "Exercised 100 call options purchased 5/13/22 (10,000 shares) at a strike price of $80 with an expiration date"
+        }
+    },
+    "Transaction 2": {
+        "Company": "REOF XXV, LLC [AB]",
+        "Ticker": "VRT",
+        "ISIN": "US92537N1081",
+        "Action": "P",
+        "Date": "03/09/2023",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 15.6,
+        "Description": {
+            "type": "Unknown",
+            "original": "Investment in LLC which is acquiring and restoring a luxury hotel property in San Francisco, CA."
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Transaction 1": {
+        "Company": "REoF XX, LLC [AB]",
+        "Ticker": "VRT",
+        "ISIN": "US92537N1081",
+        "Action": "P",
+        "Date": "01/21/2020",
+        "Amount": "$50,001 - $100,000",
+        "Av_Stock_price_at_t0": 11.51,
+        "Description": {
+            "type": "Unknown",
+            "original": "DESCRIPTIoN: Additional investment in LLC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one),"
+        }
+    }
+}

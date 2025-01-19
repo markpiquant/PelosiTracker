@@ -1,0 +1,15 @@
+{
+    "Transaction 1": {
+        "Company": "Apple Inc. (AAPL) [ST]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "S (partial)",
+        "Date": "05/08/2023",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 171.45,
+        "Description": {
+            "type": "Stock",
+            "original": "Contribution of 2,900 shares held personally to Trinity College."
+        }
+    }
+}

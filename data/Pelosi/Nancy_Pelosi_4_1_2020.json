@@ -1,0 +1,67 @@
+{
+    "Transaction 1": {
+        "Company": "alphabet Inc. - Class a (googl)",
+        "Ticker": "GOOG",
+        "ISIN": "US02079K1079",
+        "Action": "P",
+        "Date": "02/27/2020",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 66.76,
+        "Description": {
+            "type": "Call Option",
+            "original": "DEsCRIPTIoN: Purchased 40 call options with a strike price of $1200 and an expiration date of 6/18/2021."
+        }
+    },
+    "Transaction 2": {
+        "Company": "Microsoft Corporation (MsFT)",
+        "Ticker": "MSFT",
+        "ISIN": "US5949181045",
+        "Action": "P",
+        "Date": "02/28/2020",
+        "Amount": "$100,001 - $250,000",
+        "Av_Stock_price_at_t0": 150.78,
+        "Description": {
+            "type": "Call Option",
+            "original": "DEsCRIPTIoN: Purchased 50 call options with a strike price of $130 and an expiration date of 3/19/2021."
+        }
+    },
+    "Transaction 3": {
+        "Company": "Microsoft Corporation (MsFT)",
+        "Ticker": "MSFT",
+        "ISIN": "US5949181045",
+        "Action": "P",
+        "Date": "02/20/2020",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 178.09,
+        "Description": {
+            "type": "Call Option",
+            "original": "DEsCRIPTIoN: Purchased 100 call options with a strike price of $140 and an expiration date of 3/19/2021."
+        }
+    },
+    "Transaction 4": {
+        "Company": "Microsoft Corporation (MsFT)",
+        "Ticker": "MSFT",
+        "ISIN": "US5949181045",
+        "Action": "P",
+        "Date": "02/21/2020",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 173.48,
+        "Description": {
+            "type": "Call Option",
+            "original": "DEsCRIPTIoN: Purchased 100 call options with a strike price of $130 and an expiration date of 3/19/2021."
+        }
+    },
+    "Transaction 5": {
+        "Company": "slack Technologies, Inc. Class a",
+        "Ticker": "WORK",
+        "ISIN": "US71989C1099",
+        "Action": "P",
+        "Date": "02/20/2020",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 29.05,
+        "Description": {
+            "type": "Stock",
+            "original": "DEsCRIPTIoN: Purchased 10,000 shares."
+        }
+    }
+}

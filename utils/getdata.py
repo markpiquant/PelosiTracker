@@ -170,9 +170,12 @@ class GetData:
             transactions = transactions[:transactions.index("* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.")]
         except:
             pass
-        print(transactions)
+        
         ABREV_trader=transactions[transactions.index('$200?')+1] # the first element is the name of the trader
+        if len(ABREV_trader.split(' ')) > 1:
+            ABREV_trader = ABREV_trader.split(' ')[1]
         split_transactions = [list(group) for key, group in itertools.groupby(transactions, lambda x: x == ABREV_trader or (len(x.split(' ')) > 1 and x.split(' ')[1] == ABREV_trader)) if not key]
+        # print('split_transactions',split_transactions)
         d, i = {}, 1 
         for elem in split_transactions[1:]:
             # Vérifier si l'élément contient 'S', 'P', 'S (partial)', ou 'P (partial)' comme mots complets
@@ -201,12 +204,10 @@ class GetData:
                 pass 
             # rangement des données dans un dictionnaire
             if elem[5]=='f':
-                print(elem)
                 elem = elem[:4] + elem[9:]
-           
-            print(elem)
-            print(elem[5])
-            print(elem[5]=='f')
+            # print()
+            # print(elem)
+
             d['Transaction ' + str(i)] = {}
             d['Transaction ' + str(i)]['Company'] = elem[0]
             ticker=GetData.get_ticker_from_name(self,elem[0])
@@ -323,16 +324,36 @@ class GetData:
     
     @staticmethod
     def get_average_stock_price(ticker, date):
-        if ticker!='NA':
-            stock = yf.Ticker(ticker)
-            start=datetime.strptime(date, "%Y-%m-%d")
-            end=start + timedelta(days=1)
-            end=end.strftime("%Y-%m-%d")
-            historical_data = stock.history(start=start, end=end)
+        if ticker != 'NA':
+            try:
+                stock = yf.Ticker(ticker)
+                start = datetime.strptime(date, "%Y-%m-%d")
+                end = start + timedelta(days=1)
+                end = end.strftime("%Y-%m-%d")
+                historical_data = stock.history(start=start, end=end)
 
-            if not historical_data.empty:
-                average_price = round((historical_data['Open'][0] + historical_data['Close'][0]) / 2, 2)
-                return average_price
+                if not historical_data.empty:
+                    average_price = round((historical_data['Open'][0] + historical_data['Close'][0]) / 2, 2)
+                    return average_price
+            except Exception as e:
+                print(f"Error with yf.Ticker: {e}")
+
+            # Fallback to Financial Modeling Prep API
+            try:
+                start_date = date
+                end_date = (datetime.strptime(date, "%Y-%m-%d") + timedelta(days=1)).strftime("%Y-%m-%d")
+                url = f"https://financialmodelingprep.com/api/v3/historical-price-full/{ticker}?from={start_date}&to={end_date}&apikey={FMP_KEY}"
+                
+                response = requests.get(url)
+                if response.status_code == 200:
+                    data = response.json()
+                    if "historical" in data and data["historical"]:
+                        historical_data = data["historical"][0]
+                        average_price = round((historical_data['open'] + historical_data['close']) / 2, 2)
+                        return average_price
+            except Exception as e:
+                print(f"Error with Financial Modeling Prep API: {e}")
+
             return None
         else:
             return None

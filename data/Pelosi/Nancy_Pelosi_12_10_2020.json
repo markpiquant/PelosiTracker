@@ -1,0 +1,28 @@
+{
+    "Transaction 1": {
+        "Company": "Apple Inc. (AAPL) [ST]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "S (partial)",
+        "Date": "11/06/2020",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 115.88,
+        "Description": {
+            "type": "Stock",
+            "original": "DESCRIPTION: Contribution of 4,500 shares held personally to the Paul F. Pelosi Endowed Fund at georgetown university."
+        }
+    },
+    "Transaction 2": {
+        "Company": "REOF XX, LLC [AB]",
+        "Ticker": "VRT",
+        "ISIN": "US92537N1081",
+        "Action": "P",
+        "Date": "11/05/2020",
+        "Amount": "$15,001 - $50,000",
+        "Av_Stock_price_at_t0": 17.54,
+        "Description": {
+            "type": "Unknown",
+            "original": "DESCRIPTION: Additional investment in LLC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one),"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Transaction 1": {
+        "Company": "AllianceBernstein Holding L.P.",
+        "Ticker": "AB",
+        "ISIN": "US01881G1067",
+        "Action": "P",
+        "Date": "12/22/2020",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 24.07,
+        "Description": {
+            "type": "Unknown",
+            "original": "LOCATION: New York, NY, US"
+        }
+    },
+    "Transaction 2": {
+        "Company": "AllianceBernstein Holding L.P.",
+        "Ticker": "AB",
+        "ISIN": "US01881G1067",
+        "Action": "P",
+        "Date": "02/18/2021",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 27.38,
+        "Description": {
+            "type": "Unknown",
+            "original": "LOCATION: New York, NY, US"
+        }
+    },
+    "Transaction 3": {
+        "Company": "AllianceBernstein Holding L.P.",
+        "Ticker": "AB",
+        "ISIN": "US01881G1067",
+        "Action": "P",
+        "Date": "02/23/2021",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 26.91,
+        "Description": {
+            "type": "Unknown",
+            "original": "LOCATION: New York, NY, US"
+        }
+    },
+    "Transaction 4": {
+        "Company": "Microsoft Corporation (MSFT)",
+        "Ticker": "MSFT",
+        "ISIN": "US5949181045",
+        "Action": "P",
+        "Date": "03/19/2021",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 223.5,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Exercised 150 call options (15,000 shares) expiring 3/19/2021 at a strike price of $130."
+        }
+    },
+    "Transaction 5": {
+        "Company": "Microsoft Corporation (MSFT)",
+        "Ticker": "MSFT",
+        "ISIN": "US5949181045",
+        "Action": "P",
+        "Date": "03/19/2021",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 223.5,
+        "Description": {
+            "type": "Unknown",
+            "original": "Filing ID #20018539"
+        }
+    }
+}

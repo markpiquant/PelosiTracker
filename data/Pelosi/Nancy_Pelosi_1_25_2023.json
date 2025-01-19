@@ -1,0 +1,15 @@
+{
+    "Transaction 1": {
+        "Company": "Roblox Corporation Class A (RBLX)",
+        "Ticker": "RBLX",
+        "ISIN": "US7710491033",
+        "Action": "S",
+        "Date": "01/20/2023",
+        "Amount": "$1.00",
+        "Av_Stock_price_at_t0": 34.53,
+        "Description": {
+            "type": "Call Option",
+            "original": "100 call options purchased 12/20/21 with a strike price of $100 and an expiration date of 1/20/23 expired"
+        }
+    }
+}
