@@ -1,0 +1,15 @@
+{
+    "Transaction 1": {
+        "Company": "NVIDIA Corporation (NVDA) [ST]",
+        "Ticker": "NVDA",
+        "ISIN": "US67066G1040",
+        "Action": "S",
+        "Date": "07/26/2022",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 16.69,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 25,000 shares."
+        }
+    }
+}

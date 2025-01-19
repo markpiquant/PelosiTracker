@@ -1,0 +1,15 @@
+{
+    "Transaction 1": {
+        "Company": "REOF XX, LLC [AB]",
+        "Ticker": "VRT",
+        "ISIN": "US92537N1081",
+        "Action": "P",
+        "Date": "08/24/2022",
+        "Amount": "$15,001 - $50,000",
+        "Av_Stock_price_at_t0": 12.13,
+        "Description": {
+            "type": "Unknown",
+            "original": "Additional investment in LLC which acquired five Courtyard by Marriott hotels located in Fairfax, VA (one),"
+        }
+    }
+}

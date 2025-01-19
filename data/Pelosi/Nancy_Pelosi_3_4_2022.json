@@ -1,0 +1,15 @@
+{
+    "Transaction 1": {
+        "Company": "AllianceBernstein Holding l.P.",
+        "Ticker": "AB",
+        "ISIN": "US01881G1067",
+        "Action": "P",
+        "Date": "01/27/2022",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 36.2,
+        "Description": {
+            "type": "Unknown",
+            "original": "lOCATION: New York, NY, uS"
+        }
+    }
+}

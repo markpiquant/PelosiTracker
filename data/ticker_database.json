@@ -1,6 +1,242 @@
 {
     "Alphabet Inc. - Class C Capital Stock": {
         "ticker": "GOOG",
-        "isin": "NA"
+        "isin": "US02079K1079"
+    },
+    "Micron Technology, Inc. (MU) [OP]": {
+        "ticker": "MU",
+        "isin": "US5951121038"
+    },
+    "NVIDIA Corporation (NVDA) [OP]": {
+        "ticker": "NVDA",
+        "isin": "US67066G1040"
+    },
+    "Walt Disney Company (DIS) [OP]": {
+        "ticker": "DIS",
+        "isin": "US2546871060"
+    },
+    "CrowdStrike Holdings, Inc. - Class": {
+        "ticker": "CRWD",
+        "isin": "US22788C1053"
+    },
+    "Visa Inc. (V) [ST]": {
+        "ticker": "V",
+        "isin": "US92826C8394"
+    },
+    "Apple Inc. (AAPL) [ST]": {
+        "ticker": "AAPL",
+        "isin": "US0378331005"
+    },
+    "REOF XX, LLC [AB]": {
+        "ticker": "VRT",
+        "isin": "US92537N1081"
+    },
+    "Alphabet Inc. - Class C Capital": {
+        "ticker": "GOOG",
+        "isin": "US02079K1079"
+    },
+    "Micron Technology, Inc. (Mu)": {
+        "ticker": "MU",
+        "isin": "US5951121038"
+    },
+    "REOF XX, llC [AB]": {
+        "ticker": "VRT",
+        "isin": "US92537N1081"
+    },
+    "Roblox Corporation Class A": {
+        "ticker": "RBLX",
+        "isin": "US7710491033"
+    },
+    "Salesforce.com Inc (CRM) [OP]": {
+        "ticker": "CRM",
+        "isin": "US79466L3024"
+    },
+    "Apple Inc. (AAPl) [ST]": {
+        "ticker": "AAPL",
+        "isin": "US0378331005"
+    },
+    "Alliance Bernstein Holding L.P. Units": {
+        "ticker": "WAL",
+        "isin": "US9576381092"
+    },
+    "Alphabet Inc. - Class A (GOOGL) [ST]": {
+        "ticker": "GOOG",
+        "isin": "US02079K1079"
+    },
+    "Netflix, Inc. (NFLX) [ST]": {
+        "ticker": "NFLX",
+        "isin": "US64110L1061"
+    },
+    "PayPal Holdings, Inc. (PYPL) [ST]": {
+        "ticker": "PYPL",
+        "isin": "US70450Y1038"
+    },
+    "Roblox Corporation Class A (RBLX)": {
+        "ticker": "RBLX",
+        "isin": "US7710491033"
+    },
+    "Salesforce, Inc. (CRM) [OP]": {
+        "ticker": "CRM",
+        "isin": "US79466L3024"
+    },
+    "Tesla, Inc. (TSLA) [ST]": {
+        "ticker": "TSLA",
+        "isin": "US88160R1014"
+    },
+    "Walt Disney Company (DIS) [ST]": {
+        "ticker": "DIS",
+        "isin": "US2546871060"
+    },
+    "AllianceBernstein Holding l.P.": {
+        "ticker": "AB",
+        "isin": "US01881G1067"
+    },
+    "Apple Inc. (AAPl) [OP]": {
+        "ticker": "AAPL",
+        "isin": "US0378331005"
+    },
+    "Tesla, Inc. (TSlA) [OP]": {
+        "ticker": "TSLA",
+        "isin": "US88160R1014"
+    },
+    "amazon.com, Inc. (aMZN) [sT]": {
+        "ticker": "AMZN",
+        "isin": "US0231351067"
+    },
+    "Facebook, Inc. - Class a (FB) [sT]": {
+        "ticker": "META",
+        "isin": "US30303M1027"
+    },
+    "Palo Alto Networks, Inc. (PANW)": {
+        "ticker": "PANW",
+        "isin": "US6974351057"
+    },
+    "American Express Company (AXP)": {
+        "ticker": "AXP",
+        "isin": "US0258161092"
+    },
+    "PayPal Holdings, Inc. (PYPl) [ST]": {
+        "ticker": "PYPL",
+        "isin": "US70450Y1038"
+    },
+    "Tesla, Inc. (TSlA) [ST]": {
+        "ticker": "TSLA",
+        "isin": "US88160R1014"
+    },
+    "Forge Investments, LLC [AB]": {
+        "ticker": "FRGE",
+        "isin": "US34629L1035"
+    },
+    "REoF XX, LLC [AB]": {
+        "ticker": "VRT",
+        "isin": "US92537N1081"
+    },
+    "alphabet Inc. - Class a (googl)": {
+        "ticker": "GOOG",
+        "isin": "US02079K1079"
+    },
+    "Microsoft Corporation (MsFT)": {
+        "ticker": "MSFT",
+        "isin": "US5949181045"
+    },
+    "slack Technologies, Inc. Class a": {
+        "ticker": "PCLA",
+        "isin": "US71989C1099"
+    },
+    "REOF XXV, LLC [AB]": {
+        "ticker": "VRT",
+        "isin": "US92537N1081"
+    },
+    "AllianceBernstein Holding L.P.": {
+        "ticker": "AB",
+        "isin": "US01881G1067"
+    },
+    "Warner Bros. Discovery, Inc. - Series": {
+        "ticker": "WBD",
+        "isin": "US9344231041"
+    },
+    "Microsoft Corporation (MSFT) [ST]": {
+        "ticker": "MSFT",
+        "isin": "US5949181045"
+    },
+    "Apple Inc. (AAPL) [OP]": {
+        "ticker": "AAPL",
+        "isin": "US0378331005"
+    },
+    "Microsoft Corporation (MSFT) [OP]": {
+        "ticker": "MSFT",
+        "isin": "US5949181045"
+    },
+    "apple Inc. (aaPl) [ST]": {
+        "ticker": "AAPL",
+        "isin": "US0378331005"
+    },
+    "Facebook, Inc. - Class a (FB) [ST]": {
+        "ticker": "META",
+        "isin": "US30303M1027"
+    },
+    "Interactive Brokers group, Inc. -": {
+        "ticker": "IBKR",
+        "isin": "US45841N1072"
+    },
+    "Morningstar, Inc. (MoRN) [ST]": {
+        "ticker": "MORN",
+        "isin": "US6177001095"
+    },
+    "NVIDIA Corporation (NVDA) [ST]": {
+        "ticker": "NVDA",
+        "isin": "US67066G1040"
+    },
+    "Amazon.com, Inc. (AMZN)": {
+        "ticker": "AMZN",
+        "isin": "US0231351067"
+    },
+    "Alphabet Inc. - Class A (gOOgl)": {
+        "ticker": "GOOG",
+        "isin": "US02079K1079"
+    },
+    "Amazon.com, Inc. (AMZN) [OP]": {
+        "ticker": "AMZN",
+        "isin": "US0231351067"
+    },
+    "Broadcom Inc. - Common Stock": {
+        "ticker": "AVGO",
+        "isin": "US11135F1012"
+    },
+    "NVIDIA Corporation - Common": {
+        "ticker": "NVDA",
+        "isin": "US67066G1040"
+    },
+    "Tesla, Inc. - Common Stock (TSLA)": {
+        "ticker": "TSLA",
+        "isin": "US88160R1014"
+    },
+    "Microsoft Corporation - Common": {
+        "ticker": "MSFT",
+        "isin": "US5949181045"
+    },
+    "NVIDIA Corporation - Common Stock": {
+        "ticker": "NVDA",
+        "isin": "US67066G1040"
+    },
+    "REOF XXII, llC [AB]": {
+        "ticker": "VRT",
+        "isin": "US92537N1081"
+    },
+    "Slack Technologies, Inc. Class A": {
+        "ticker": "PCLA",
+        "isin": "US71989C1099"
+    },
+    "REOF XXVI, LLC [AB]": {
+        "ticker": "VRT",
+        "isin": "US92537N1081"
+    },
+    "Facebook, Inc. - Class A (FB) [ST]": {
+        "ticker": "META",
+        "isin": "US30303M1027"
+    },
+    "P": {
+        "ticker": "PCLA",
+        "isin": "US71989C1099"
     }
 }

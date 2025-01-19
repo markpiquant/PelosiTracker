@@ -1,0 +1,41 @@
+{
+    "Transaction 1": {
+        "Company": "Apple Inc. (AAPL) [OP]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "S (partial)",
+        "Date": "06/17/2022",
+        "Amount": "$100,001 - $250,000",
+        "Av_Stock_price_at_t0": 129.06,
+        "Description": {
+            "type": "Call Option",
+            "original": "Sold 50 call options with a strike price of $100 and an expiration date of 6/17/22."
+        }
+    },
+    "Transaction 2": {
+        "Company": "NVIDIA Corporation (NVDA) [ST]",
+        "Ticker": "NVDA",
+        "ISIN": "US67066G1040",
+        "Action": "P",
+        "Date": "06/17/2022",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 15.74,
+        "Description": {
+            "type": "Call Option",
+            "original": "Exercised 200 call options (20,000 shares) expiring 6/17/22 at a strike price of $100."
+        }
+    },
+    "Transaction 3": {
+        "Company": "Visa Inc. (V) [ST]",
+        "Ticker": "V",
+        "ISIN": "US92826C8394",
+        "Action": "S (partial)",
+        "Date": "06/21/2022",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 191.28,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 10,000 shares."
+        }
+    }
+}

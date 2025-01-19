@@ -1,0 +1,54 @@
+{
+    "Transaction 1": {
+        "Company": "Apple Inc. (AAPL) [OP]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "P",
+        "Date": "05/13/2022",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 143.89,
+        "Description": {
+            "type": "Call Option",
+            "original": "Purchased 100 call options with a strike price of $80 and an expiration date of 3/17/23."
+        }
+    },
+    "Transaction 2": {
+        "Company": "Apple Inc. (AAPL) [OP]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "P",
+        "Date": "05/24/2022",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 138.7,
+        "Description": {
+            "type": "Call Option",
+            "original": "Purchased 50 call options with a strike price of $80 and an expiration date of 6/16/23."
+        }
+    },
+    "Transaction 3": {
+        "Company": "Microsoft Corporation (MSFT) [OP]",
+        "Ticker": "MSFT",
+        "ISIN": "US5949181045",
+        "Action": "P",
+        "Date": "05/24/2022",
+        "Amount": "$50,001 - $100,000",
+        "Av_Stock_price_at_t0": 253.32,
+        "Description": {
+            "type": "Call Option",
+            "original": "Purchased 10 call options with a strike price of $180 and an expiration date of 6/16/23."
+        }
+    },
+    "Transaction 4": {
+        "Company": "Microsoft Corporation (MSFT) [OP]",
+        "Ticker": "MSFT",
+        "ISIN": "US5949181045",
+        "Action": "P",
+        "Date": "05/24/2022",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 253.32,
+        "Description": {
+            "type": "Call Option",
+            "original": "Purchased 40 call options with a strike price of $180 and an expiration date of 6/16/23."
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Transaction 1": {
+        "Company": "Visa Inc. (V) [ST]",
+        "Ticker": "V",
+        "ISIN": "US92826C8394",
+        "Action": "S (partial)",
+        "Date": "11/08/2022",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 198.17,
+        "Description": {
+            "type": "Stock",
+            "original": "Sold 20,000 shares."
+        }
+    }
+}

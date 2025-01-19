@@ -1,0 +1,67 @@
+{
+    "Transaction 1": {
+        "Company": "AllianceBernstein Holding l.P.",
+        "Ticker": "AB",
+        "ISIN": "US01881G1067",
+        "Action": "P",
+        "Date": "01/27/2022",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 36.2,
+        "Description": {
+            "type": "Unknown",
+            "original": "lOCATION: New York, NY, uS"
+        }
+    },
+    "Transaction 2": {
+        "Company": "American Express Company (AXP)",
+        "Ticker": "AXP",
+        "ISIN": "US0258161092",
+        "Action": "P",
+        "Date": "01/21/2022",
+        "Amount": "$250,001 - $500,000",
+        "Av_Stock_price_at_t0": 153.2,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Exercised 50 call options (5,000 shares) expiring 1/21/22 at a strike price of $80."
+        }
+    },
+    "Transaction 3": {
+        "Company": "Apple Inc. (AAPl) [ST]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "P",
+        "Date": "01/21/2022",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 160.78,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Exercised 100 call options (10,000 shares) expiring 1/21/22 at a strike price of $100."
+        }
+    },
+    "Transaction 4": {
+        "Company": "PayPal Holdings, Inc. (PYPl) [ST]",
+        "Ticker": "PYPL",
+        "ISIN": "US70450Y1038",
+        "Action": "P",
+        "Date": "01/21/2022",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 167.67,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Exercised 50 call options (5,000 shares) expiring 1/21/22 at a strike price of $100."
+        }
+    },
+    "Transaction 5": {
+        "Company": "Walt Disney Company (DIS) [ST]",
+        "Ticker": "DIS",
+        "ISIN": "US2546871060",
+        "Action": "P",
+        "Date": "01/21/2022",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 137.61,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Exercised 100 call options (10,000 shares) expiring 1/21/22 at a strike price of $100."
+        }
+    }
+}

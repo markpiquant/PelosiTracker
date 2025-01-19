@@ -170,8 +170,9 @@ class GetData:
             transactions = transactions[:transactions.index("* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.")]
         except:
             pass
+        print(transactions)
         ABREV_trader=transactions[transactions.index('$200?')+1] # the first element is the name of the trader
-        split_transactions=[list(group) for key, group in itertools.groupby(transactions, lambda x: x == ABREV_trader) if not key] 
+        split_transactions = [list(group) for key, group in itertools.groupby(transactions, lambda x: x == ABREV_trader or (len(x.split(' ')) > 1 and x.split(' ')[1] == ABREV_trader)) if not key]
         d, i = {}, 1 
         for elem in split_transactions[1:]:
             # Vérifier si l'élément contient 'S', 'P', 'S (partial)', ou 'P (partial)' comme mots complets
@@ -180,7 +181,7 @@ class GetData:
                 match = re.search(r'(.*?)(?<![./-])\b(S|P)\b(?![./-])|\bS \(partial\)\b|\bP \(partial\)\b', elem[0])
                 if match:
                     elem = [match.group(1).strip(), match.group(2)] + elem[1:]
-            print(elem)
+            
 
             while elem[1].lower() not in ['p','s','p (partial)','s (partial)', 'e']:
                 elem=[elem[0]]+elem[2:]
@@ -199,6 +200,13 @@ class GetData:
             except: # pour les cas on a pas de "-"
                 pass 
             # rangement des données dans un dictionnaire
+            if elem[5]=='f':
+                print(elem)
+                elem = elem[:4] + elem[9:]
+           
+            print(elem)
+            print(elem[5])
+            print(elem[5]=='f')
             d['Transaction ' + str(i)] = {}
             d['Transaction ' + str(i)]['Company'] = elem[0]
             ticker=GetData.get_ticker_from_name(self,elem[0])
@@ -213,6 +221,7 @@ class GetData:
             d['Transaction ' + str(i)]['Date'] = elem[2]
             d['Transaction ' + str(i)]['Amount'] = elem[3]
             d['Transaction ' + str(i)]['Av_Stock_price_at_t0'] = GetData.get_average_stock_price(ticker, datetime.strptime(elem[2], "%m/%d/%Y").strftime("%Y-%m-%d"))
+            # print(elem[5])
             try:
                 description = elem[5].replace("D\u0287\u0295\u0285\u0294\u028b\u0292\u0296\u028b\u0291\u0290: ", "")
             except IndexError:
@@ -237,8 +246,8 @@ class GetData:
 
     def get_ticker_from_name(self, name): 
         if name in self.ticker_database:
-            print('known', name)
-            print(self.ticker_database[name]['ticker'])
+            # print('known', name)
+            # print(self.ticker_database[name]['ticker'])
             return self.ticker_database[name]['ticker'] 
         
         words = name.split(' ')
@@ -265,7 +274,7 @@ class GetData:
                             ticker_counts[symbol] = 1
             except:
                 continue
-        print('ticker_counts', ticker_counts)
+        # print('ticker_counts', ticker_counts)
         
         if ticker_counts:
             # Find the ticker that appears the most

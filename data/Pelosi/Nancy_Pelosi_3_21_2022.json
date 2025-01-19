@@ -1,0 +1,15 @@
+{
+    "Transaction 1": {
+        "Company": "Tesla, Inc. (TSlA) [ST]",
+        "Ticker": "TSLA",
+        "ISIN": "US88160R1014",
+        "Action": "P",
+        "Date": "03/17/2022",
+        "Amount": "$1,000,001 - $5,000,000",
+        "Av_Stock_price_at_t0": 283.76,
+        "Description": {
+            "type": "Call Option",
+            "original": "DESCRIPTION: Exercised 25 call options (2,500 shares) expiring 3/18/22 at a strike price of $500."
+        }
+    }
+}

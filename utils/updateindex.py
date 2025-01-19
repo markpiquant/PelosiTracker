@@ -27,30 +27,47 @@ class UpdateIndex():
         the position of a trader up to the most recent date
         
         """
-        for trader_folder in DATAPATH.iterdir():# Parcourir chaque sous-dossier dans DATAPATH
+        for trader_folder in DATAPATH.iterdir(): # Parcourir chaque sous-dossier dans DATAPATH
             if trader_folder.is_dir(): # Si le sous-dossier est un dossier
                 positions = {}
-                for json_file in trader_folder.glob("*.json"):#
+                for json_file in trader_folder.glob("*.json"):
+                    if json_file.name ==  "current_position.json":
+                        continue
                     with open(json_file, 'r') as file:
                         data = json.load(file)
                         for transaction in data.values():
-                           
-                            if transaction["Action"] == "P":
-                                isin = transaction["ISIN"]
-                                amount_range = transaction["Amount"].replace("$", "").replace(",", "").split(" - ")
+                            isin = transaction["ISIN"]
+                            amount_range = transaction["Amount"].replace("$", "").replace(",", "").split(" - ")
+                            if len(amount_range) == 1:
+                                avg_amount = float(amount_range[0])
+                            else:
                                 avg_amount = (float(amount_range[0]) + float(amount_range[1])) / 2
-                                if isin not in positions:
-                                    positions[isin] = {
-                                        "Company": transaction["Company"],
-                                        "aggregated_value": 0,
-                                        "descriptions": []
-                                    }
-                                positions[isin]["aggregated_value"] += avg_amount
-                                positions[isin]["descriptions"].append(transaction["Description"]["original"])
+                            date = transaction["Date"]
+                            
+                            if isin not in positions:
+                                positions[isin] = {
+                                    "Company": transaction["Company"],
+                                    "aggregated_value": 0,
+                                    "transactions": []
+                                }
+                            
+                            if transaction["Action"] in ["P", "S", "s"]:
+                                if transaction["Action"] == "P":
+                                    positions[isin]["aggregated_value"] += avg_amount
+                                else: # "S" or "s"
+                                    positions[isin]["aggregated_value"] -= avg_amount
+                                
+                                positions[isin]["transactions"].append({
+                                    "date": date,
+                                    "amount": avg_amount,
+                                    "description": transaction["Description"]["original"],
+                                    "action": transaction["Action"],
+                                    "Av_Stock_price_at_t0": transaction["Av_Stock_price_at_t0"]
+                                })
                 
                 # Save the positions to a new JSON file
                 output_file = trader_folder / "current_position.json"
                 with open(output_file, 'w') as outfile:
                     json.dump(positions, outfile, indent=4)
-            
+                
         

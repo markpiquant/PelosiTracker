@@ -1,0 +1,28 @@
+{
+    "Transaction 1": {
+        "Company": "Apple Inc. (AAPl) [ST]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "S (partial)",
+        "Date": "12/30/2021",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 175.95,
+        "Description": {
+            "type": "Stock",
+            "original": "DESCRIPTION: Contribution of 3,000 shares held personally to the Paul F. Pelosi Endowed Fund at georgetown university."
+        }
+    },
+    "Transaction 2": {
+        "Company": "Apple Inc. (AAPl) [ST]",
+        "Ticker": "AAPL",
+        "ISIN": "US0378331005",
+        "Action": "S (partial)",
+        "Date": "12/30/2021",
+        "Amount": "$500,001 - $1,000,000",
+        "Av_Stock_price_at_t0": 175.95,
+        "Description": {
+            "type": "Stock",
+            "original": "DESCRIPTION: Contribution of 3,000 shares held personally to Trinity College."
+        }
+    }
+}
